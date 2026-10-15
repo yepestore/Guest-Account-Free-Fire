@@ -17,6 +17,7 @@ Each account comes with:
 | 100+ accounts | **$0.05** |
 
 - **Minimum order:** 100 accounts ($5.00)
+- 🌍 Region request: +$0.01 per account (e.g. $0.06/account for a non-ID region)
 - Bulk discounts available for 1000+ — ask me.
 - ⏳ Large/bulk orders may take a few days to fulfill.
 
