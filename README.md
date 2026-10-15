@@ -1,6 +1,6 @@
 # 🎮 Guest-Account-Free-Fire
 
-Fresh Free Fire guest accounts, farmed and ready to use.
+Fresh Free Fire guest accounts, **READY TO USE**
 
 ## 📦 What's included
 
