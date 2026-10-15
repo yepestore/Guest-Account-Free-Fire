@@ -27,16 +27,19 @@ Each account comes with:
 3. Payment via **USDT (BEP20)** — wallet address provided after deal confirmation
 4. Accounts delivered as `.txt` file: `uid | password` per line
 
-## ❓ FAQ
-
-**Are these full access accounts?**
+❓ FAQ
+<details>
+<summary><b>Are these full access accounts?</b></summary>
 Yes — UID + password, you own them after purchase.
-
-**Can I get a sample?**
+</details>
+<details>
+<summary><b>Can I get a sample?</b></summary>
 Yes, 1 free sample account on request.
-
-**Do you offer higher level accounts?**
+</details>
+<details>
+<summary><b>Do you offer higher level accounts?</b></summary>
 Currently level 3 (rare level 4). Higher levels coming soon.
+</details>
 
 
 ## ⚠️ Disclaimer
