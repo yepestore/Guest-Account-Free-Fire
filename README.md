@@ -27,7 +27,7 @@ Each account comes with:
 3. Payment via **USDT (BEP20)** — wallet address provided after deal confirmation
 4. Accounts delivered as `.txt` file: `uid | password` per line
 
-##❓ FAQ
+## ❓ FAQ
 <details>
 <summary><b>Are these full access accounts?</b></summary>
 Yes — UID + password, you own them after purchase.
