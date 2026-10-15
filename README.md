@@ -37,3 +37,9 @@ Yes, 1 free sample account on request.
 
 **Do you offer higher level accounts?**
 Currently level 3 (rare level 4). Higher levels coming soon.
+
+
+## ⚠️ Disclaimer
+By purchasing, you confirm you know how to use these accounts. No tutorials or usage guidance provided.
+
+
