@@ -45,5 +45,5 @@ Currently level 3 (rare level 4). Higher levels coming soon.
 
 ## ⚠️ Disclaimer
 By purchasing, you confirm you know how to use these accounts. No tutorials or usage guidance provided.
-
+> level up, level-up, levelup, freefire, free fire, guest, account, guest account
 
